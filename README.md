@@ -19,7 +19,7 @@ Born in Brazil, I’ve been involved in tech since I was 13 years old, learning 
   />
 
 
-<div style="display: inline_block margin_top: 0"><br><br><br><br><br>
+<div style="display: inline_block; margin_top: 0; margin_left: 10"> <br><br><br><br><br>
   <img align="center" alt="Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
