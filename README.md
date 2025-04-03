@@ -12,7 +12,11 @@ Born in Brazil, I’ve been involved in tech since I was 13 years old, learning 
       height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=typ17&theme=dracula&layout=compact&custom_title=Stats:&langs_count=5" 
   />
-  
+
+<img src="./image.gif">
+
+##
+
 <div style="display: inline_block"><br><br>
   <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
