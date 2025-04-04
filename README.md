@@ -11,5 +11,5 @@
       align="left" 
       alt="GitHub Stats" 
       height="130" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=typ17&theme=dracula&layout=compact&custom_title=Stats:&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=typ17&theme=dark&layout=compact&custom_title=Stats:&langs_count=5" 
   />
