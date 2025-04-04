@@ -1,6 +1,6 @@
 <h1>Oii! 👋</h1>
 
-<a>My name is Endryo, I’m a front-end developer specializing in <strong>React</strong> and <strong>JS</strong>. Born in Brazil, I’ve been involved in coding since I was 13 years old, learning primarily through self-study. I’m an open-source enthusiast and a long-time Linux 🐧 user, currently studying Systems Analysis and Development to broaden my understanding of the digital world.</a>
+<a>I’m a front-end developer specializing in <strong>React</strong> and <strong>JS</strong>. Born in Brazil, I’ve been involved in coding since I was 13 years old, learning primarily through self-study. I’m an open-source enthusiast and a long-time Linux 🐧 user, currently studying Systems Analysis and Development to broaden my understanding of the digital world.</a>
 
 <div style="display: inline_block align: center height: 10">
 <img src="./image.gif" alt=".gif">
