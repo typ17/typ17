@@ -1,4 +1,4 @@
-<h1>Oii! ☺︎ </h1>
+<h1>Oii! ☺ </h1>
 
 <a>I’m a front-end developer specializing in <strong>React</strong> and <strong>JS</strong>. Born in Brazil, I’ve been involved in coding since I was 13 years old 👶, learning primarily through <strong>self-study</strong>. I’m an open-source enthusiast and a long-time Linux 🐧 user, <strong>currently studying</strong> Systems Analysis and Development to broaden my understanding of the digital world.</a>
 
