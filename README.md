@@ -1,13 +1,13 @@
 <h1>Oii 👋! </h1>
 
-> I’m a **front-end developer specializing** in <a href="#" title="React"><img align="center" alt="React" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+> I’m a **front-end developer specializing** in <a href="#" title="React.js"><img align="center" alt="React" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
  and <a href="#" title="Java Script"> <img align="center" alt="Js" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 
 
 
 > Born in Brazil, I’ve been involved in coding since I was 13 years old, learning primarily through **self-study**
 
-> I’m an open-source enthusiast and a long-time <a href="#" title="Linux"><img align="center" alt="linux" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a> user, **currently studying** <a href="#" title="">Systems Analysis and Development</a> to broaden my understanding of the digital world
+> I’m an open-source enthusiast and a long-time <a href="#" title="Linux"><img align="center" alt="linux" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a> user, **currently studying** 'Systems Analysis and Development ~~(SAD)~~' to broaden my understanding of the digital world
 
 
 <div> <img src="./image.gif" alt=".gif"> </div>
