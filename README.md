@@ -50,5 +50,4 @@
 
 
 <br><br><br><br><br><br>
-
-<h2>⬇ ↓ My main projects 💫  ↓ ⬇</h2>
+<h2>↓ My main projects 💫 ↓</h2>
