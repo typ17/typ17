@@ -11,7 +11,12 @@
 
 
 
+
+
 <div> <img src="./image.gif" alt=".gif"> </div>
+
+
+
 
 
 
@@ -21,7 +26,6 @@
       height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=typ17&theme=dark&layout=compact&custom_title=Stats:&langs_count=5" 
   />
-
 
 
 <br> 
@@ -40,11 +44,11 @@
   <a href="#" title="Linux"> <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<h2>⬇ ↓ My main projects 💫 ↓ ⬇</h2>
+
+
+
+
+<br><br><br><br><br><br>
+
+<h2>⬇ ↓ My main projects 💫  ↓ ⬇</h2>
