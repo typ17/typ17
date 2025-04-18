@@ -13,7 +13,7 @@
 > 🌿 ↪︎ **Currently**: studying 'Systems Analysis and Development' - deepening in theoretical concepts
 
 
-<br><br>
+<br><br><br><br>
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -37,7 +37,7 @@
 </div> 
 
 
-<br>
+<br><br>
 
 ![Visitas](https://komarev.com/ghpvc/?username=typ17&color=blue&label=Profile+Views)
 
